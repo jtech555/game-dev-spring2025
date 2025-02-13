@@ -3,9 +3,13 @@
 ## What were you experimenting with your prototype?
 
 With Prototype 1, I was experimenting with seeing if I could create a Breakout game that hit every element of Game Feel (Real-Time Control, Simulated Space, and Polish), that was also a rewarding challenge to create. After brainstorming on possible prototypes, I realized that the prototype I had in my mind that I felt great about designing, was a prototype where:
+
 -The player could have a paddle that could move around the interior boundary of a wireframed sphere, creating 360 Degree Spherical Movement Controls
+
 -3D bricks could be placed in the center of the sphere that would be destroyed upon collision with the ball bouncing of them, as well as the paddle
+
 -The player would lose a life every time the ball hits the inner sphere boundary
+
 -There would be a looping video of “space” playing in the background, for additional Polish and an attempt to add more Simulated Space Feel in the 3D Environment
 -There would be an MP3 file that plays when the game starts, for additional Polish
 All of these endeavors were also experimental challenges in themselves - as upon starting this course, I only made a few Unity Projects beforehand. Additional endeavors that I also strived to implement, but could not at due to lack of time were:
