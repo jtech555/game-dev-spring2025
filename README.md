@@ -1,4 +1,6 @@
-1.	What were you experimenting with your prototype?
+# Breakout 1
+
+## What were you experimenting with your prototype?
 
 With Prototype 1, I was experimenting with seeing if I could create a Breakout game that hit every element of Game Feel (Real-Time Control, Simulated Space, and Polish), that was also a rewarding challenge to create. After brainstorming on possible prototypes, I realized that the prototype I had in my mind that I felt great about designing, was a prototype where:
 -The player could have a paddle that could move around the interior boundary of a wireframed sphere, creating 360 Degree Spherical Movement Controls
