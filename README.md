@@ -1,8 +1,83 @@
-# Reflection on Breakout Prototypes
-## Prototype 1
-1. What were you experimenting with with your prototype?
-   - With this prototype I was expieriencing 
+1.	What were you experimenting with your prototype?
+
+With Prototype 1, I was experimenting with seeing if I could create a Breakout game that hit every element of Game Feel (Real-Time Control, Simulated Space, and Polish), that was also a rewarding challenge to create. After brainstorming on possible prototypes, I realized that the prototype I had in my mind that I felt great about designing, was a prototype where:
+-The player could have a paddle that could move around the interior boundary of a wireframed sphere, creating 360 Degree Spherical Movement Controls
+-3D bricks could be placed in the center of the sphere that would be destroyed upon collision with the ball bouncing of them, as well as the paddle
+-The player would lose a life every time the ball hits the inner sphere boundary
+-There would be a looping video of “space” playing in the background, for additional Polish and an attempt to add more Simulated Space Feel in the 3D Environment
+-There would be an MP3 file that plays when the game starts, for additional Polish
+All of these endeavors were also experimental challenges in themselves - as upon starting this course, I only made a few Unity Projects beforehand. Additional endeavors that I also strived to implement, but could not at due to lack of time were:
+-Create a feeling of an Extension of Identity where the Sphere would display crack marks every time the ball hit it, as well as have a “cracking” mp3 sound be played upon ball collision.
+-Instead of a looping video of “space” playing in the background, attempt to further Simulate Space by Polishing the 3D environment more, creating an array of star objects that would move outside of the Sphere, nested within another Sphere that would be a Skydome of space (Newsfeed - Sketchfab)
+
+
 3. What did you learn from your prototype?
-4. Did you learned anything from your playtesters in class? What?
+From my prototype, having limited experience with Unity, I learned:
+-Displaying a 3D object’s wireframe can be done using C#
+-How to add a looping video into a Unity Game
+-How to set up an MP3 file to play automatically into a Unity Game
+
+
+
+4. Did you learn anything from your playtesters in class? What?
+From the playtesters in class, I learned that:
+-The playtesters enjoyed the overall Game Feel, especially the elements of Polish added to the Game – Background video playing, background music playing, and sound effects when the ball hits the paddle.
+-The playtesters had some difficulty getting use to the controls, as there was a Game Bug I could not solve in time before class. The Game Bug is when the playtesters moved the paddle directly to the top center of the Sphere, or directly to the bottom center of the Sphere, the Paddle’s directional  vertical velocity would invert itself. That is  - If the “W” key was held down by a playtester, moving the Paddle “Up”, to the top center of the Sphere, once the paddle was at the top center of the Sphere, the Paddle would then automatically reverse course, and start moving “Down”, switching the Paddle’s velocity, and vice verse if the Paddle reached the bottom center of the Sphere.
 5. Include an image of the game (example below)
 6. Include a link to your game
+
+
+Breakout 2a
+
+1.	What were you experimenting with your prototype?
+
+With Prototype 2a, myself and my group members (Nathan and Andrew), were experimenting to see if we could create an Anti-Breakout Game. That is, a game where the player would not control a Paddle, but instead, the Bricks/Blocks that are destroyed in Breakout. After brainstorming on how we could implement this concept idea, we began experimenting with this Prototype to see if we could:
+-Create an array of prefab Bricks in a cluster, that the player could control as a Group, using the WASD keys.
+-Create a Ball that will bounce around the sealed inner walls of a 2D environment. Every time the Ball collided with a Brick apart of the cluster, the player’s score would increase, creating positive Game Feel.
+-Have the Brick cluster start with one brick, and once the Brick was destroyed, an “Upgrade” Menu would appear, allowing the user to purchase additional upgrades – “Brick Health” and “Additional Bricks”, creating a competitive incentive for the player to desire to achieve more powerups. Game level would then restart with upgrades added. 
+- 
+
+3. What did you learn from your prototype?
+- From this prototype I learned:
+-Group members can use “Unity Version Control” when all group members are not together in person. This allows for one group member to sync their updates onto the cloud, which any other user can then download the latest updates from to continue work on the project.
+-Working with a partner who is more experienced in Unity, can lead to multiple hours of problem solving for a perceived “simple” prototype modification, when the experienced partner is not present. I learned this by telling one of my group members that I would create a “Upgrade Screen Panel” for this prototype, and I could not make the “Upgrade Screen Panel” disappear when the game started – unchecking the game object to be “not active”, setting the panel in C# to be “not active”, etc. Runing into this problem, however, did allow myself and my group members to reconvene in person, to collectively look at the code more thoroughly, so all of us had better clarity on the function of all the scripts and operations that were being performed.  
+
+4. Did you learn anything from your playtesters in class? What?
+Unfortunately, we did not learn anything from the playtesters in class. After syncing the latest updates to the Cloud via “Unity Version Control”, all group members were unable to load the game due to an error that was not present the previous night. My group, however, did take action when this was taken notice of during class, and tried to resolve the issue, but unfortunately we were unsuccessful.
+
+5. Include an image of the game (example below)
+6. Include a link to your game
+
+Breakout 2b
+
+What were you experimenting with your prototype?
+- With Prototype 2b, myself and my group members (Nathan and Andrew), were experimenting to see if we could create another Anti-Breakout Game. That is, a game where the player would not control a Paddle, but instead, the Bricks/Blocks that are destroyed in Breakout. After brainstorming on how we could implement this concept idea, we began experimenting with this Prototype to see if we could:
+-Create separate circular rings of Bricks that the player could control, as a Ball bounced off the Bricks, starting from the center of the game. 
+
+
+What did you learn from your prototype?
+From this prototype, my group members and I learned that:
+-Having multiple Rings of Bricks in the game that the player could choose from, was a means of Polish that enhanced the player’s feeling of control in the prototype.
+-There was a sense of an aesthetic sensation of control. As in the game “Frogger” where you control the character but it feels like game is controlling you; although myself and my group members could control the Ring of Bricks in the game, it felt like the game was more so controlling us, 
+
+Did you learn anything from your playtesters in class? What?
+From the playtersters I learned that our group’s prototype created an exciting unique Game Feel. Not due to Polish, Simulated Space, or Real Time Control, but due to the game design being different in which the player controlled multiple Rings of Bricks, instead of a Paddle. 
+In addition, I also learned that the playtesters:
+-Felt that each Ring of Bricks should be highlighted when they are selected by the player, to help the player easily identify which Ring of Bricks they are controlling. This implementation would not only help improve real-time control, but also add additional Polish to the game. 
+-Had mixed reviews on the game controls. One playtester liked the game controls, and another playtester did not like the game controls – believing that the 2 keys for rotating the Rings should be on one side of the keyboard, and the 2 keys for selecting the different rings should be on the other side of the keyboard. Both players liking two different forms of game interaction in regard to game input controls.
+
+Include an image of the game (example below)
+Include a link to your game
+
+Prototype 3
+What were you experimenting with your prototype?
+-With Breakout 2a my group members and myself were experimenting with taking the playtesters feedback to improve the Game Feel, by creating a Ring Selector and adding additional levels. 
+What did you learn from your prototype?
+-From this prototype my group members and I learned that the implementation of levels was not an easy feat to accomplish. Managing time to accomplish this goal, also took away from further improving additional aspects of the game, such as Polish additions that could have been made.
+
+Did you learn anything from your playtesters in class? What?
+-From the playtesters in class, I learned that playtesters enjoyed now having a Ring Selector in the prototype, however, playtesters
+Include an image of the game (example below)
+Include a link to your game
+
+
