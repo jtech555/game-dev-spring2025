@@ -11,13 +11,16 @@ With Prototype 1, I was experimenting with seeing if I could create a Breakout g
 -The player would lose a life every time the ball hits the inner sphere boundary
 
 -There would be a looping video of “space” playing in the background, for additional Polish and an attempt to add more Simulated Space Feel in the 3D Environment
+
 -There would be an MP3 file that plays when the game starts, for additional Polish
+
 All of these endeavors were also experimental challenges in themselves - as upon starting this course, I only made a few Unity Projects beforehand. Additional endeavors that I also strived to implement, but could not at due to lack of time were:
+
 -Create a feeling of an Extension of Identity where the Sphere would display crack marks every time the ball hit it, as well as have a “cracking” mp3 sound be played upon ball collision.
+
 -Instead of a looping video of “space” playing in the background, attempt to further Simulate Space by Polishing the 3D environment more, creating an array of star objects that would move outside of the Sphere, nested within another Sphere that would be a Skydome of space (Newsfeed - Sketchfab)
 
-
-3. What did you learn from your prototype?
+## What did you learn from your prototype?
 From my prototype, having limited experience with Unity, I learned:
 -Displaying a 3D object’s wireframe can be done using C#
 -How to add a looping video into a Unity Game
