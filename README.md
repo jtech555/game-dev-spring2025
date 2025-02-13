@@ -41,15 +41,18 @@ From the playtesters in class, I learned that:
 ## 6. Include a link to your game
 
 
-Breakout 2a
+# Breakout 2a
 
 ## What were you experimenting with your prototype?
 
 With Prototype 2a, myself and my group members (Nathan and Andrew), were experimenting to see if we could create an Anti-Breakout Game. That is, a game where the player would not control a Paddle, but instead, the Bricks/Blocks that are destroyed in Breakout. After brainstorming on how we could implement this concept idea, we began experimenting with this Prototype to see if we could:
+
 -Create an array of prefab Bricks in a cluster, that the player could control as a Group, using the WASD keys.
+
 -Create a Ball that will bounce around the sealed inner walls of a 2D environment. Every time the Ball collided with a Brick apart of the cluster, the player’s score would increase, creating positive Game Feel.
+
 -Have the Brick cluster start with one brick, and once the Brick was destroyed, an “Upgrade” Menu would appear, allowing the user to purchase additional upgrades – “Brick Health” and “Additional Bricks”, creating a competitive incentive for the player to desire to achieve more powerups. Game level would then restart with upgrades added. 
-- 
+
 
 ## What did you learn from your prototype?
 - From this prototype I learned:
@@ -63,12 +66,11 @@ Unfortunately, we did not learn anything from the playtesters in class. After sy
 
 ## Include a link to your game
 
-Breakout 2b
+# Breakout 2b
 
 ## What were you experimenting with your prototype?
 - With Prototype 2b, myself and my group members (Nathan and Andrew), were experimenting to see if we could create another Anti-Breakout Game. That is, a game where the player would not control a Paddle, but instead, the Bricks/Blocks that are destroyed in Breakout. After brainstorming on how we could implement this concept idea, we began experimenting with this Prototype to see if we could:
 -Create separate circular rings of Bricks that the player could control, as a Ball bounced off the Bricks, starting from the center of the game. 
-
 
 ## What did you learn from your prototype?
 From this prototype, my group members and I learned that:
