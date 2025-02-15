@@ -65,6 +65,8 @@ With Prototype 2a, myself and my group members (Nathan and Andrew), were experim
 Unfortunately, we did not learn anything from the playtesters in class. After syncing the latest updates to the Cloud via “Unity Version Control”, all group members were unable to load the game due to an error that was not present the previous night. My group, however, did take action when this was taken notice of during class, and tried to resolve the issue, but unfortunately we were unsuccessful.
 
 ## Include an image of the game (example below)
+<br>
+<img src="./2a.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
 
@@ -90,6 +92,8 @@ In addition, I also learned that the playtesters:
 -Had mixed reviews on the game controls. One playtester liked the game controls, and another playtester did not like the game controls – believing that the 2 keys for rotating the Rings should be on one side of the keyboard, and the 2 keys for selecting the different rings should be on the other side of the keyboard. Both players liking two different forms of game interaction in regard to game input controls.
 
 ## Include an image of the game (example below)
+<br>
+<img src="./2b.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
 
@@ -104,7 +108,24 @@ In addition, I also learned that the playtesters:
 -From the playtesters in class, I learned that playtesters enjoyed now having a Ring Selector in the prototype, however, playtesters
 
 ## Include an image of the game (example below)
+<br>
+<img src="./3.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
+
+# Prototype 4
+## What were you experimenting with your prototype?
+
+## What did you learn from your prototype?
+
+
+## Did you learn anything from your playtesters in class? What?
+
+## Include an image of the game (example below)
+<br>
+<img src="./4.png" alt="Breakout gameplay" align="lesft" width="350">
+
+## Include a link to your game
+
 
 
