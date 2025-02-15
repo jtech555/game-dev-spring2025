@@ -37,8 +37,8 @@ From the playtesters in class, I learned that:
 -The playtesters had some difficulty getting use to the controls, as there was a Game Bug I could not solve in time before class. The Game Bug is when the playtesters moved the paddle directly to the top center of the Sphere, or directly to the bottom center of the Sphere, the Paddle’s directional  vertical velocity would invert itself. That is  - If the “W” key was held down by a playtester, moving the Paddle “Up”, to the top center of the Sphere, once the paddle was at the top center of the Sphere, the Paddle would then automatically reverse course, and start moving “Down”, switching the Paddle’s velocity, and vice verse if the Paddle reached the bottom center of the Sphere.
 
 ## 5. Include an image of the game (example below)
-
-<img src="./b1.png" alt="Breakout gameplay" align="right" width="350">
+<br>
+<img src="./b1.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## 6. Include a link to your game
 
