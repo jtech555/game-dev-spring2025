@@ -38,6 +38,8 @@ From the playtesters in class, I learned that:
 
 ## 5. Include an image of the game (example below)
 
+<img src="./b1.png" alt="Breakout gameplay" align="right" width="350">
+
 ## 6. Include a link to your game
 
 
