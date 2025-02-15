@@ -105,7 +105,7 @@ In addition, I also learned that the playtesters:
 <img src="./2b.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
-[Breakout 2b]([https://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2a](http://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2b)
+[Breakout 2b](http://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2b)
 
 
 <br><br><br>
