@@ -127,8 +127,7 @@ In addition, I also learned that the playtesters:
 <img src="./3.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
-[Breakout 3](https://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2a](http://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2b](http://ArnoldTran.github.io/game-dev-spring2025/builds/breakout-3)
-
+[Breakout 3](http://ArnoldTran.github.io/game-dev-spring2025/builds/breakout-3)
 
 <br><br><br>
 
@@ -145,7 +144,7 @@ In addition, I also learned that the playtesters:
 <img src="./4.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
-[Breakout 3](https://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2a](http://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2b](http://ArnoldTran.github.io/game-dev-spring2025/builds/breakout-3)
+[Breakout 4](http://ArnoldTran.github.io/game-dev-spring2025/builds/breakout-4)
 
 
 
