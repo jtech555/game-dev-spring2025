@@ -61,7 +61,7 @@ With Prototype 2a, myself and my group members (Nathan and Andrew), were experim
 
 
 ## What did you learn from your prototype?
-- From this prototype I learned:
+From this prototype I learned:
 -Group members can use “Unity Version Control” when all group members are not together in person. This allows for one group member to sync their updates onto the cloud, which any other user can then download the latest updates from to continue work on the project.
 
 -Working with a partner who is more experienced in Unity, can lead to multiple hours of problem solving for a perceived “simple” prototype modification, when the experienced partner is not present. I learned this by telling one of my group members that I would create a “Upgrade Screen Panel” for this prototype, and I could not make the “Upgrade Screen Panel” disappear when the game started – unchecking the game object to be “not active”, setting the panel in C# to be “not active”, etc. Runing into this problem, however, did allow myself and my group members to reconvene in person, to collectively look at the code more thoroughly, so all of us had better clarity on the function of all the scripts and operations that were being performed.  
