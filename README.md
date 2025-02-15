@@ -41,7 +41,7 @@ From the playtesters in class, I learned that:
 <img src="./b1.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## 6. Include a link to your game
-
+[Visit Halo Waypoint](https://www.halowaypoint.com)
 
 # Breakout 2a
 
