@@ -41,7 +41,11 @@ From the playtesters in class, I learned that:
 <img src="./b1.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## 6. Include a link to your game
-[Visit Halo Waypoint](https://www.halowaypoint.com)
+
+
+
+
+
 
 # Breakout 2a
 
@@ -69,6 +73,11 @@ Unfortunately, we did not learn anything from the playtesters in class. After sy
 <img src="./2a.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
+[Breakout 2a](https://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2a)
+
+
+
+
 
 # Breakout 2b
 
@@ -96,6 +105,12 @@ In addition, I also learned that the playtesters:
 <img src="./2b.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
+[Breakout 2b]([https://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2a](http://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2b)
+
+
+
+
+
 
 # Prototype 3
 ## What were you experimenting with your prototype?
@@ -112,12 +127,16 @@ In addition, I also learned that the playtesters:
 <img src="./3.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
+[Breakout 3](https://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2a](http://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2b](http://ArnoldTran.github.io/game-dev-spring2025/builds/breakout-3)
+
+
+
+
 
 # Prototype 4
 ## What were you experimenting with your prototype?
 
 ## What did you learn from your prototype?
-
 
 ## Did you learn anything from your playtesters in class? What?
 
@@ -126,6 +145,7 @@ In addition, I also learned that the playtesters:
 <img src="./4.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
+[Breakout 3](https://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2a](http://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2b](http://ArnoldTran.github.io/game-dev-spring2025/builds/breakout-3)
 
 
 
