@@ -20,7 +20,8 @@ https://youtu.be/2mWZlNOzdv8?t=202 – In “Stage 3 – Waterfall” – We can
 https://youtu.be/2mWZlNOzdv8 - In “Stage 8 – Alien’s Lair” – We can see that this level has enemies at the bottom right corner of the screen. Since the player can position themselves on the platform in a Laid Down Position, this level influences the player to utilize the Laid Down Position, so their weapon will have more accuracy in taking out the bottom right corner enemies. 
 
 ## Include a screenshot of the game
-
+<br>
+<img src="./contra.png" align="lesft" width="350">
 
 
 
@@ -37,6 +38,8 @@ Additionally there are many frames used for the sprites of the main character (T
 
 ##Describe the jump (again, be detail oriented)
 When the player’s character (Donkey Kong) jumps, Donkey Kong can be seen leaping, raising his arms above his head, and extending his leg’s out, then colliding with the ground on his feet first, followed by his hands. A frame by frame of Donkey Kong’s jumping sprite animation can be seen below:
+<br>
+<img src="./donkeyKong.png" align="lesft" width="350">
  
 This jump animation not only is very polished in detail but also appears to mimic the same animation as a Gorilla in real life does. For example, in the first few seconds in this video clip of a Gorilla jumping at Twycross Zoo, we can observe that the Gorilla exhibits the same jump motion:
 https://youtu.be/QPGbzML3_8s?t=149
@@ -47,7 +50,8 @@ The game’s level design has been influenced by these movement and jump mechani
 -By allowing Donkey Kong to land on his feet first, when colliding with the ground, level design with object interaction for Donkey Kong requires for objects and enemies by Donkey Kong, to have a  
 
 ## Include a screenshot of the game
-
+<br>
+<img src="./donkeyKong.png" align="lesft" width="350">
  
 
 # Platformer 3 – The Legend of Kage – NES – 1986 (American Version)
@@ -65,4 +69,5 @@ In addition to the player’s character’s jump, the player’s character can a
 The game’s level design has been influenced by these movement and jump mechanics by requiring the levels to be large in size. Since the player’s character has the ability to jump at large heights and distances, a small, confined level would not be ideal for the player’s character, because that would decrease the Game Feel, not allowing the player to utilize a character’s ability fully.
 
 ## Include a screenshot of the game
- 
+ <br>
+<img src="./kage.png" align="lesft" width="350">
