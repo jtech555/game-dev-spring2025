@@ -39,7 +39,7 @@ Additionally there are many frames used for the sprites of the main character (T
 ##Describe the jump (again, be detail oriented)
 When the player’s character (Donkey Kong) jumps, Donkey Kong can be seen leaping, raising his arms above his head, and extending his leg’s out, then colliding with the ground on his feet first, followed by his hands. A frame by frame of Donkey Kong’s jumping sprite animation can be seen below:
 <br>
-<img src="./donkeyKong.png" align="lesft" width="350">
+<img src="./donkeyKongSprite.png" align="lesft" width="350">
  
 This jump animation not only is very polished in detail but also appears to mimic the same animation as a Gorilla in real life does. For example, in the first few seconds in this video clip of a Gorilla jumping at Twycross Zoo, we can observe that the Gorilla exhibits the same jump motion:
 https://youtu.be/QPGbzML3_8s?t=149
