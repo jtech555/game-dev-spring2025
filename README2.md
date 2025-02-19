@@ -1,151 +1,64 @@
-# Breakout 1
+# Platformer 1 – Contra – SNES – 1987
 
-## What were you experimenting with your prototype?
+## Describe the movement on the ground (pay attention to the details)
+-The player’s character Lance, the player has 4 different unique sprite actions the player can activate when Lance is on the ground. These sprite actions are: Standing, Laying Down, Walking, and Jumping (Source: Contra - Nintendo NES - Sprites). Breaking down the sprites individually it appears that 
+Standing Sprite – Is a single frame sprite, showing Lance aiming his rifle at a 90 degree angle, straight towards the enemy that Lance is facing towards. 
+Laying Down – Is a single frame sprite, allowing for the player to dodge enemy bullets fired at the players torso. In addition allows the plyer to fire a bullet at the enemy’s shins.
+Walking – Appears to be a 3 framed sprite, showing the player Lance carrying his rifle at a 45 degree angle into the air, as well as shows Lance’s legs motioning to run.
 
-With Prototype 1, I was experimenting with seeing if I could create a Breakout game that hit every element of Game Feel (Real-Time Control, Simulated Space, and Polish), that was also a rewarding challenge to create. After brainstorming on possible prototypes, I realized that the prototype I had in my mind that I felt great about designing, was a prototype where:
+Describe the jump (again, be detail oriented)
+-When the player’s character Lance jumps in the game, the Lance curls their body into a small ball up into the air, coming back down (Contra - Nintendo NES - Sprites).
+This action is a great form of Polish in the game because it creates for the player a fun detailed physical simulation of movement, as well as sells the player a sense of realism to the game. 
+The jump also gives a cue that the player – the Hero- in the game, Lance, is agile and quick, for being a ~250lb muscular man. This could symbolize that “Heros” are light and fast, allowing children to adapt to a sense of a shared positive reinforcing identity, increasing Game Feel - “I’m quick and fast, the player is quick and fast, and is a Hero. I feel like a Hero, I can relate” 
 
--The player could have a paddle that could move around the interior boundary of a wireframed sphere, creating 360 Degree Spherical Movement Controls
+How has the game’s level design been influenced by these movement and jump mechanics?
+-The game’s level design has been influenced by these movement and jump mechanics in a variety of different ways:
+https://youtu.be/2mWZlNOzdv8?t=202 – In “Stage 3 – Waterfall” – We can see that this level has multiple platforms and enemies above the player. This level design allows for the player to learn to use their jump and shooting mechanic at the same time, to fire in multiple directions, allowing them to take out a wider range of enemies in the level.
+https://youtu.be/2mWZlNOzdv8 - In “Stage 8 – Alien’s Lair” – We can see that this level has enemies at the bottom right corner of the screen. Since the player can position themselves on the platform in a Laid Down Position, this level influences the player to utilize the Laid Down Position, so their weapon will have more accuracy in taking out the bottom right corner enemies. 
 
--3D bricks could be placed in the center of the sphere that would be destroyed upon collision with the ball bouncing of them, as well as the paddle
+Include a screenshot of the game
+ 
+Contra (NES) Full Run with No Deaths
 
--The player would lose a life every time the ball hits the inner sphere boundary
 
--There would be a looping video of “space” playing in the background, for additional Polish and an attempt to add more Simulated Space Feel in the 3D Environment
 
--There would be an MP3 file that plays when the game starts, for additional Polish
 
-All of these endeavors were also experimental challenges in themselves - as upon starting this course, I only made a few Unity Projects beforehand. Additional endeavors that I also strived to implement, but could not at due to lack of time were:
 
--Create a feeling of an Extension of Identity where the Sphere would display crack marks every time the ball hit it, as well as have a “cracking” mp3 sound be played upon ball collision.
 
--Instead of a looping video of “space” playing in the background, attempt to further Simulate Space by Polishing the 3D environment more, creating an array of star objects that would move outside of the Sphere, nested within another Sphere that would be a Skydome of space (Newsfeed - Sketchfab)
 
-## What did you learn from your prototype?
-From my prototype, having limited experience with Unity, I learned:
+Platformer 2 – Donkey Kong Country - SNES – 1994
+Describe the movement on the ground (pay attention to the details)
+-The movement on the ground for the character Donkey Kong, in Donkey Kong Country, is very fluid and completely polished for its time period in relation to other SNES platformer games. The movement for Donkey Kong provides the user with a more “organic” feeling, then a “mechanical” feeling.
+For example:
+Donkey Kong emotes when Donkey Kong is stationary or has stopped moving by the player (https://youtu.be/_Eug8PRZWlc?t=1364); This allows the player to relate more to the character, creating a stronger sense of realism.
+Additionally there are many frames used for the sprites of the main character (The Spriters Resource - Full Sheet View - Donkey Kong Country - Donkey Kong). This not only exhibits a great amount of polish to making Donkey Kong appear to be more “real”, but once again shows that the character designers were 
+Describe the jump (again, be detail oriented)
+When the player’s character (Donkey Kong) jumps, Donkey Kong can be seen leaping, raising his arms above his head, and extending his leg’s out, then colliding with the ground on his feet first, followed by his hands. A frame by frame of Donkey Kong’s jumping sprite animation can be seen below:
+ 
+This jump animation not only is very polished in detail but also appears to mimic the same animation as a Gorilla in real life does. For example, in the first few seconds in this video clip of a Gorilla jumping at Twycross Zoo, we can observe that the Gorilla exhibits the same jump motion:
+https://youtu.be/QPGbzML3_8s?t=149
 
--Displaying a 3D object’s wireframe can be done using C#
+How has the game’s level design been influenced by these movement and jump mechanics?
 
--How to add a looping video into a Unity Game
+The game’s level design has been influenced by these movement and jump mechanics, ina variety of different ways.
+-By allowing Donkey Kong to land on his feet first, when colliding with the ground, level design with object interaction for Donkey Kong requires for objects and enemies by Donkey Kong, to have a  
 
--How to set up an MP3 file to play automatically into a Unity Game
+Include a screenshot of the game
 
-## Did you learn anything from your playtesters in class? What?
-From the playtesters in class, I learned that:
+ 
 
--The playtesters enjoyed the overall Game Feel, especially the elements of Polish added to the Game – Background video playing, background music playing, and sound effects when the ball hits the paddle.
+Platformer 3 – The Legend of Kage – NES – 1986 (American Version)
+Describe the movement on the ground (pay attention to the details)
+-On the ground, the player’s movement in The Legend of Kage appears to be mechanical – that is a cycle between 2 frames where: 
+Frame 1 - The player’s character has a right arm extended outward, and both legs straight when running
+Frame 2 - The player’s character has their right arm now at the character’s side, and leg is now shown to be bent forward. Both frames cycling one after another to make the character appear as if they are running (https://youtu.be/n6c_AX5kAfY). 
 
--The playtesters had some difficulty getting use to the controls, as there was a Game Bug I could not solve in time before class. The Game Bug is when the playtesters moved the paddle directly to the top center of the Sphere, or directly to the bottom center of the Sphere, the Paddle’s directional  vertical velocity would invert itself. That is  - If the “W” key was held down by a playtester, moving the Paddle “Up”, to the top center of the Sphere, once the paddle was at the top center of the Sphere, the Paddle would then automatically reverse course, and start moving “Down”, switching the Paddle’s velocity, and vice verse if the Paddle reached the bottom center of the Sphere.
+Describe the jump (again, be detail oriented)
+The player’s character jump in The Legend of Kage, is very unique compared to other platformer games I have personally played. In The Legend of Kage, the player’s character has the ability to jump in the game, from one side to another, at great heights and lengths (https://youtu.be/n6c_AX5kAfY?t=252), approximately up to 13x the player’s character’s height. This allows the player’s character to jump over trees and onto tree branches to attack enemies. 
+In addition to the player’s character’s jump, the player’s character can also jump vertically (https://youtu.be/n6c_AX5kAfY?t=263). When this jump is performed, the player’s character also swings their weapon – a blade - in their hand. 
 
-## 5. Include an image of the game (example below)
-<br>
-<img src="./b1.png" alt="Breakout gameplay" align="lesft" width="350">
+How has the game’s level design been influenced by these movement and jump mechanics?
+The game’s level design has been influenced by these movement and jump mechanics by requiring the levels to be large in size. Since the player’s character has the ability to jump at large heights and distances, a small, confined level would not be ideal for the player’s character, because that would decrease the Game Feel, not allowing the player to utilize a character’s ability fully.
 
-## 6. Include a link to your game
-
-
-
-<br><br><br>
-
-
-# Breakout 2a
-
-## What were you experimenting with your prototype?
-
-With Prototype 2a, myself and my group members (Nathan and Andrew), were experimenting to see if we could create an Anti-Breakout Game. That is, a game where the player would not control a Paddle, but instead, the Bricks/Blocks that are destroyed in Breakout. After brainstorming on how we could implement this concept idea, we began experimenting with this Prototype to see if we could:
-
--Create an array of prefab Bricks in a cluster, that the player could control as a Group, using the WASD keys.
-
--Create a Ball that will bounce around the sealed inner walls of a 2D environment. Every time the Ball collided with a Brick apart of the cluster, the player’s score would increase, creating positive Game Feel.
-
--Have the Brick cluster start with one brick, and once the Brick was destroyed, an “Upgrade” Menu would appear, allowing the user to purchase additional upgrades – “Brick Health” and “Additional Bricks”, creating a competitive incentive for the player to desire to achieve more powerups. Game level would then restart with upgrades added. 
-
-
-## What did you learn from your prototype?
-From this prototype I learned:
--Group members can use “Unity Version Control” when all group members are not together in person. This allows for one group member to sync their updates onto the cloud, which any other user can then download the latest updates from to continue work on the project.
-
--Working with a partner who is more experienced in Unity, can lead to multiple hours of problem solving for a perceived “simple” prototype modification, when the experienced partner is not present. I learned this by telling one of my group members that I would create a “Upgrade Screen Panel” for this prototype, and I could not make the “Upgrade Screen Panel” disappear when the game started – unchecking the game object to be “not active”, setting the panel in C# to be “not active”, etc. Runing into this problem, however, did allow myself and my group members to reconvene in person, to collectively look at the code more thoroughly, so all of us had better clarity on the function of all the scripts and operations that were being performed.  
-
-## Did you learn anything from your playtesters in class? What?
-Unfortunately, we did not learn anything from the playtesters in class. After syncing the latest updates to the Cloud via “Unity Version Control”, all group members were unable to load the game due to an error that was not present the previous night. My group, however, did take action when this was taken notice of during class, and tried to resolve the issue, but unfortunately we were unsuccessful.
-
-## Include an image of the game (example below)
-<br>
-<img src="./2a.png" alt="Breakout gameplay" align="lesft" width="350">
-
-## Include a link to your game
-[Breakout 2a](https://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2a)
-
-
-<br><br><br>
-
-
-# Breakout 2b
-
-## What were you experimenting with your prototype?
-- With Prototype 2b, myself and my group members (Nathan and Andrew), were experimenting to see if we could create another Anti-Breakout Game. That is, a game where the player would not control a Paddle, but instead, the Bricks/Blocks that are destroyed in Breakout. After brainstorming on how we could implement this concept idea, we began experimenting with this Prototype to see if we could:
--Create separate circular rings of Bricks that the player could control, as a Ball bounced off the Bricks, starting from the center of the game. 
-
-## What did you learn from your prototype?
-From this prototype, my group members and I learned that:
-
--Having multiple Rings of Bricks in the game that the player could choose from, was a means of Polish that enhanced the player’s feeling of control in the prototype.
-
--There was a sense of an aesthetic sensation of control. As in the game “Frogger” where you control the character but it feels like game is controlling you; although myself and my group members could control the Ring of Bricks in the game, it felt like the game was more so controlling us, 
-
-## Did you learn anything from your playtesters in class? What?
-From the playtersters I learned that our group’s prototype created an exciting unique Game Feel. Not due to Polish, Simulated Space, or Real Time Control, but due to the game design being different in which the player controlled multiple Rings of Bricks, instead of a Paddle. 
-In addition, I also learned that the playtesters:
-
--Felt that each Ring of Bricks should be highlighted when they are selected by the player, to help the player easily identify which Ring of Bricks they are controlling. This implementation would not only help improve real-time control, but also add additional Polish to the game. 
-
--Had mixed reviews on the game controls. One playtester liked the game controls, and another playtester did not like the game controls – believing that the 2 keys for rotating the Rings should be on one side of the keyboard, and the 2 keys for selecting the different rings should be on the other side of the keyboard. Both players liking two different forms of game interaction in regard to game input controls.
-
-## Include an image of the game (example below)
-<br>
-<img src="./2b.png" alt="Breakout gameplay" align="lesft" width="350">
-
-## Include a link to your game
-[Breakout 2b](http://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2b)
-
-
-<br><br><br>
-
-
-
-# Prototype 3
-## What were you experimenting with your prototype?
--With Breakout 2a my group members and myself were experimenting with taking the playtesters feedback to improve the Game Feel, by creating a Ring Selector and adding additional levels. 
-
-## What did you learn from your prototype?
--From this prototype my group members and I learned that the implementation of levels was not an easy feat to accomplish. Managing time to accomplish this goal, also took away from further improving additional aspects of the game, such as Polish additions that could have been made.
-
-## Did you learn anything from your playtesters in class? What?
--From the playtesters in class, I learned that playtesters enjoyed now having a Ring Selector in the prototype, however, playtesters
-
-## Include an image of the game (example below)
-<br>
-<img src="./3.png" alt="Breakout gameplay" align="lesft" width="350">
-
-## Include a link to your game
-[Breakout 3](http://ArnoldTran.github.io/game-dev-spring2025/builds/breakout-3)
-
-<br><br><br>
-
-
-# Prototype 4
-## What were you experimenting with your prototype?
-
-## What did you learn from your prototype?
-
-## Did you learn anything from your playtesters in class? What?
-
-## Include an image of the game (example below)
-<br>
-<img src="./4.png" alt="Breakout gameplay" align="lesft" width="350">
-
-## Include a link to your game
-[Breakout 4](http://ArnoldTran.github.io/game-dev-spring2025/builds/breakout-4)
-
-
-
+Include a screenshot of the game
+ 
