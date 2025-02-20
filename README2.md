@@ -40,7 +40,7 @@ For example:
 The character Donkey Kong emotes when Donkey Kong is stationary or has stopped moving by the player. As can be seen from the .gif file below taken from https://bit-boy.tumblr.com/post/125391297023/segagenesisevangelion-donkey-kong-country.
 
 <br>
-<img src="./donkeyKongEmote.gif" align="lesft" width="50">
+<img src="./donkeyKongEmote.gif" align="lesft" width="200">
 
 
 
