@@ -90,12 +90,13 @@ Frame 1 - Kage has a right arm extended outward, and both legs straight when run
 Frame 2 - Kage has their right arm now at the character’s side, and leg is now shown to be bent forward. Both frames cycling one after another to make Kage appear as if running (https://youtu.be/n6c_AX5kAfY). 
 
 ## Describe the jump (again, be detail oriented)
-Kage's jump in The Legend of Kage, is very unique compared to other platformer games I have personally played. In The Legend of Kage, Kage has the ability to jump in the game, from one side to another, at great heights and lengths as can be seen below:
+Kage's jump in The Legend of Kage, is very unique compared to other platformer games I have personally played. In The Legend of Kage, Kage has the ability to jump in the game, at great heights and lengths as can be seen below, while also remianing in a lotus pose when gliding:
 
 <br>
 <img src="./tenor.gif" align="lesft" width="300">
 
-This jump ability allows Kage to jump over trees and onto tree branches to attack enemies, at a maximum height of about 13x Kage's height, and a maximum length about 50x the width of Kage. 
+This jump ability allows Kage to jump over trees and onto tree branches to attack enemies, at a maximum height of about 13x Kage's height, and a maximum length about 50x the width of Kage. This ability can be used to the player's advantage allowing the player to travel long distances, however this ability could also be seen as a disadvantage, causing the player to run into not only one enemy over a distance, but also run into enemy attacks as well.
+
 In addition to Kage’s jump, the player can also control Kage to jump vertically (https://youtu.be/n6c_AX5kAfY?t=263). When this jump is performed, the player’s character also swings their weapon – a blade - in their hand. 
 
 ## How has the game’s level design been influenced by these movement and jump mechanics?
