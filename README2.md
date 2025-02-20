@@ -16,7 +16,7 @@ Walking – Appears to be a 3 framed sprite, showing the player Lance carrying h
   
 
 This action is a great form of Polish in the game because it creates for the player a fun detailed physical simulation of movement, as well as sells the player a sense of realism to the game. 
-The jump also gives a cue that the player – the Hero- in the game, Lance, is agile and quick, for being a ~250lb muscular man. This could symbolize that “Heros” are light and fast, allowing children to adapt to a sense of a shared positive reinforcing identity, increasing Game Feel - “I’m quick and fast, the player is quick and fast, and is a Hero. I feel like a Hero, I can relate” 
+The jump also gives a cue that the player – the Hero- in the game, Lance, is "agile and quick", for being a ~250lb muscular man. This could symbolize that “Heros” are light and fast, allowing children to adapt to a sense of a shared positive reinforcing identity, increasing Game Feel - “I (a child) am quick and fast, the player is quick and fast, and is a Hero. I feel like I am Hero, I can relate.” 
 
 ## How has the game’s level design been influenced by these movement and jump mechanics?
 -The game’s level design has been influenced by these movement and jump mechanics in a variety of different ways:
@@ -33,12 +33,24 @@ https://youtu.be/2mWZlNOzdv8 - In “Stage 8 – Alien’s Lair” – We can se
 
 # Platformer 2 – Donkey Kong Country - SNES – 1994
 ## Describe the movement on the ground (pay attention to the details)
--The movement on the ground for the character Donkey Kong, in Donkey Kong Country, is very fluid and completely polished for its time period in relation to other SNES platformer games. The movement for Donkey Kong provides the user with a more “organic” feeling, then a “mechanical” feeling.
+-The movement on the ground for the character Donkey Kong, in Donkey Kong Country, is very fluid and completely polished for its time period in relation to other SNES platformer games. The movement for Donkey Kong provides the user with a more “organic” feeling, than a “mechanical” feeling.
 
 For example:
 
-Donkey Kong emotes when Donkey Kong is stationary or has stopped moving by the player (https://youtu.be/_Eug8PRZWlc?t=1364); This allows the player to relate more to the character, creating a stronger sense of realism.
+The character Donkey Kong emotes when Donkey Kong is stationary or has stopped moving by the player. As can be seen from the .gif file below taken from https://bit-boy.tumblr.com/post/125391297023/segagenesisevangelion-donkey-kong-country.
+
+<br>
+<img src="./donkeyKongEmote.gif" align="lesft" width="50">
+
+
+
+
+
+This allows the player to relate more to the character, creating a stronger sense of realism.
 Additionally there are many frames used for the sprites of the main character (The Spriters Resource - Full Sheet View - Donkey Kong Country - Donkey Kong). This not only exhibits a great amount of polish to making Donkey Kong appear to be more “real”, but once again shows that the character designers were 
+
+
+
 
 ##Describe the jump (again, be detail oriented)
 When the player’s character (Donkey Kong) jumps, Donkey Kong can be seen leaping, raising his arms above his head, and extending his leg’s out, then colliding with the ground on his feet first, followed by his hands. A frame by frame of Donkey Kong’s jumping sprite animation can be seen below:
