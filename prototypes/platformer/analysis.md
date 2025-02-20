@@ -104,4 +104,4 @@ The game’s level design has been influenced by Kage's movement and jump mechan
 
 ## Include a screenshot of the game
  <br>
-<img src="./kage.png" align="lesft" width="350">
+<img src="https://github.com/jtech555/game-dev-spring2025/blob/main/kage.png" align="lesft" width="350">
