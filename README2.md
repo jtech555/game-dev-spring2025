@@ -78,7 +78,13 @@ Frame 1 - The player’s character has a right arm extended outward, and both le
 Frame 2 - The player’s character has their right arm now at the character’s side, and leg is now shown to be bent forward. Both frames cycling one after another to make the character appear as if they are running (https://youtu.be/n6c_AX5kAfY). 
 
 ## Describe the jump (again, be detail oriented)
-The player’s character jump in The Legend of Kage, is very unique compared to other platformer games I have personally played. In The Legend of Kage, the player’s character has the ability to jump in the game, from one side to another, at great heights and lengths (https://youtu.be/n6c_AX5kAfY?t=252), approximately up to 13x the player’s character’s height. This allows the player’s character to jump over trees and onto tree branches to attack enemies. 
+The player’s character jump in The Legend of Kage, is very unique compared to other platformer games I have personally played. In The Legend of Kage, the player’s character has the ability to jump in the game, from one side to another, at great heights and lengths as can be seen below:
+
+<br>
+<img src="https://c.tenor.com/svu0aMAIB4UAAAAd/tenor.gif" align="left" width="350">
+
+
+, approximately up to 13x the player’s character’s height. This allows the player’s character to jump over trees and onto tree branches to attack enemies. 
 In addition to the player’s character’s jump, the player’s character can also jump vertically (https://youtu.be/n6c_AX5kAfY?t=263). When this jump is performed, the player’s character also swings their weapon – a blade - in their hand. 
 
 ## How has the game’s level design been influenced by these movement and jump mechanics?
