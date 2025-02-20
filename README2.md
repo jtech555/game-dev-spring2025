@@ -52,7 +52,7 @@ This Sprite Sheet not only exhibits a great amount of polish into making Donkey 
 
 
 
-##Describe the jump (again, be detail oriented)
+## Describe the jump (again, be detail oriented)
 When the player’s character (Donkey Kong) jumps, Donkey Kong can be seen leaping, raising his arms above his head, and extending his leg’s out, then colliding with the ground on his feet first, followed by his hands. A frame by frame of Donkey Kong’s jumping sprite animation can be seen below:
 <br>
 <img src="./donkeyKongSprite.png" align="lesft" width="350">
@@ -67,6 +67,12 @@ The game’s level design has been influenced by these movement and jump mechani
 
 <br>
 <img src="http://beregord.files.wordpress.com/2010/11/windowslivewriterretrogameofthedaydonkeykongcountry-13e13crate-donkey-kong-country321.jpg" align="lesft" width="350">
+
+-In addition, since Donkey Kong has been created with a high Polish to emote and have reactions to events - dying, winning, etc. - the game's level design has been influenced to create oinstances that bring out emoting reactions. For example, as seen below, when Donkey Kong finds that his 
+
+<br>
+<img src="https://64.media.tumblr.com/0bc63dd69bd634ef4fdf7aafc6c70d9e/4feba373c1ceed3d-ba/s500x750/f6b1d9791e36f6996c1a8dd9ce8a5313bbc3a090.gif" align="lesft" width="350">
+
 
 
 ## Include a screenshot of the game
