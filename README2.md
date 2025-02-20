@@ -60,13 +60,14 @@ When the player’s character (Donkey Kong) jumps, Donkey Kong can be seen leapi
 This jump animation not only is very polished in detail but also appears to mimic the same animation as a Gorilla in real life does. For example, in the first few seconds in this video clip of a Gorilla jumping at Twycross Zoo, we can observe that the Gorilla exhibits the same jump motion:
 https://youtu.be/QPGbzML3_8s?t=149
 
-<br>
-<img src="https://i.makeagif.com/media/7-29-2015/A3lTGL.gif" align="lesft" width="350">
-
 ## How has the game’s level design been influenced by these movement and jump mechanics?
 
-The game’s level design has been influenced by these movement and jump mechanics, ina variety of different ways.
--By allowing Donkey Kong to land on his feet first, when colliding with the ground, level design with object interaction for Donkey Kong requires for objects and enemies by Donkey Kong, to have a  
+The game’s level design has been influenced by these movement and jump mechanics, in a variety of different ways.
+-By allowing Donkey Kong to land on his feet first, when colliding with the ground, the level design has been influenced to create game objects that must be jumped on to be activated. For example, in the image below a box with a rhinosoarus can be seen. In order for Donkey Kong to open this box, Donkey Kong has to jump on it, with his feet first, then a Rhino to appear, then Donkey Kong will have to jump on the Rhino again to mount it. 
+
+<br>
+<img src="http://beregord.files.wordpress.com/2010/11/windowslivewriterretrogameofthedaydonkeykongcountry-13e13crate-donkey-kong-country321.jpg" align="lesft" width="350">
+
 
 ## Include a screenshot of the game
 <br>
