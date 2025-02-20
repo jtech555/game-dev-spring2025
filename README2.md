@@ -85,7 +85,7 @@ The game’s level design has been influenced by these movement and jump mechani
 # Platformer 3 – The Legend of Kage – NES – 1986 (American Version)
 ## Describe the movement on the ground (pay attention to the details)
 
--On the ground, the player’s (Kage's) movement in The Legend of Kage appears to be mechanical – that is a cycle between 2 frames where: 
+-On the ground, the player’s (Kage's) movement in The Legend of Kage appears to be mechanical – that is a cycle between 2 frames of very low Polish where: 
 Frame 1 - Kage has a right arm extended outward, and both legs straight when running
 Frame 2 - Kage has their right arm now at the character’s side, and leg is now shown to be bent forward. Both frames cycling one after another to make Kage appear as if running (https://youtu.be/n6c_AX5kAfY). 
 
