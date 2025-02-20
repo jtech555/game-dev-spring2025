@@ -29,26 +29,25 @@ https://youtu.be/2mWZlNOzdv8 - In “Stage 8 – Alien’s Lair” – We can se
 
 
 
-
-
 # Platformer 2 – Donkey Kong Country - SNES – 1994
 ## Describe the movement on the ground (pay attention to the details)
 -The movement on the ground for the character Donkey Kong, in Donkey Kong Country, is very fluid and completely polished for its time period in relation to other SNES platformer games. The movement for Donkey Kong provides the user with a more “organic” feeling, than a “mechanical” feeling.
 
 For example:
 
-The character Donkey Kong emotes when Donkey Kong is stationary or has stopped moving by the player. As can be seen from the .gif file below taken from https://bit-boy.tumblr.com/post/125391297023/segagenesisevangelion-donkey-kong-country.
+The character Donkey Kong "emotes" when Donkey Kong is stationary or has stopped moving by the player. As can be seen from the .gif file below taken from https://bit-boy.tumblr.com/post/125391297023/segagenesisevangelion-donkey-kong-country.
 
 <br>
 <img src="./donkeyKongEmote.gif" align="lesft" width="200">
 
-This allows the player to relate more to the character, creating a stronger sense of realism.
-Additionally there are many frames used for the sprites of Donkey Kong, that can be seen below, taken from https://www.spriters-resource.com/fullview/45659/.
+The stationary emoting allows the player to relate more to the character, creating a stronger sense of realism. As appose to the character Lance in Contra, who does not emote at all when stationary.
+
+Additionally there are many frames used for the sprites of Donkey Kong, that can be seen below in Donkey Kong's Sprite Sheet, taken from https://www.spriters-resource.com/fullview/45659/.
 
 <br>
 <img src="https://www.spriters-resource.com/resources/sheets/43/45659.png" align="lesft" width="300">
 
-This not only exhibits a great amount of polish to making Donkey Kong appear to be more “real”, but once again shows that the character designers were 
+This Sprite Sheet not only exhibits a great amount of polish into making Donkey Kong appear to be more “real”, but also shows the amount of work gone into creating a non-mechanical feeling towards the character. 
 
 
 
