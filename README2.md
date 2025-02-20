@@ -11,6 +11,8 @@ Walking – Appears to be a 3 framed sprite, showing the player Lance carrying h
 
 ## Describe the jump (again, be detail oriented)
 - When the player’s character Lance jumps in the game, Lance performs a verticle jump - curling his body into a small ball up into the air, coming back down. This can be best exhibited via Lance's Jumping Sprite taken from https://nesmaps.com/maps/Contra/sprites/ContraSprites.html, seen below:
+<br>
+<img src="./contra.png" align="lesft" width="350">
   
 
 This action is a great form of Polish in the game because it creates for the player a fun detailed physical simulation of movement, as well as sells the player a sense of realism to the game. 
