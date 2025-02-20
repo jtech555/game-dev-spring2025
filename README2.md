@@ -81,7 +81,7 @@ Frame 2 - The player’s character has their right arm now at the character’s 
 The player’s character jump in The Legend of Kage, is very unique compared to other platformer games I have personally played. In The Legend of Kage, the player’s character has the ability to jump in the game, from one side to another, at great heights and lengths as can be seen below:
 
 <br>
-<img src="https://c.tenor.com/svu0aMAIB4UAAAAd/tenor.gif" align="left" width="350">
+<img src="https://c.tenor.com/svu0aMAIB4UAAAAd/tenor.gif" align="left" width="500">
 
 
 , approximately up to 13x the player’s character’s height. This allows the player’s character to jump over trees and onto tree branches to attack enemies. 
