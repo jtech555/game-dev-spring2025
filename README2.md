@@ -12,7 +12,7 @@ Walking – Appears to be a 3 framed sprite, showing the player Lance carrying h
 ## Describe the jump (again, be detail oriented)
 - When the player’s character Lance jumps in the game, Lance performs a verticle jump - curling his body into a small ball up into the air, coming back down. This can be best exhibited via Lance's Jumping Sprite taken from https://nesmaps.com/maps/Contra/sprites/ContraSprites.html, seen below:
 <br>
-<img src="./lanceJumping.gif" align="left" width="30">
+<img src="./lanceJumping.gif" align="lesft" width="30">
   
 
 This action is a great form of Polish in the game because it creates for the player a fun detailed physical simulation of movement, as well as sells the player a sense of realism to the game. 
@@ -25,7 +25,7 @@ https://youtu.be/2mWZlNOzdv8 - In “Stage 8 – Alien’s Lair” – We can se
 
 ## Include a screenshot of the game
 <br>
-<img src="./contra.png" align="left" width="350">
+<img src="./contra.png" align="lesft" width="350">
 
 
 
@@ -38,14 +38,14 @@ For example:
 The character Donkey Kong "emotes" when Donkey Kong is stationary or has stopped moving by the player. As can be seen from the .gif file below taken from https://bit-boy.tumblr.com/post/125391297023/segagenesisevangelion-donkey-kong-country.
 
 <br>
-<img src="./donkeyKongEmote.gif" align="left" width="200">
+<img src="./donkeyKongEmote.gif" align="lesft" width="200">
 
 The stationary emoting allows the player to relate more to the character, creating a stronger sense of realism. As appose to the character Lance in Contra, who does not emote at all when stationary.
 
 Additionally there are many frames used for the sprites of Donkey Kong, that can be seen below in Donkey Kong's Sprite Sheet, taken from https://www.spriters-resource.com/fullview/45659/.
 
 <br>
-<img src="https://www.spriters-resource.com/resources/sheets/43/45659.png" align="left" width="300">
+<img src="https://www.spriters-resource.com/resources/sheets/43/45659.png" align="lesft" width="300">
 
 This Sprite Sheet not only exhibits a great amount of polish into making Donkey Kong appear to be more “real”, but also shows the amount of work gone into creating a non-mechanical feeling towards the character. 
 
@@ -55,7 +55,7 @@ This Sprite Sheet not only exhibits a great amount of polish into making Donkey 
 ##Describe the jump (again, be detail oriented)
 When the player’s character (Donkey Kong) jumps, Donkey Kong can be seen leaping, raising his arms above his head, and extending his leg’s out, then colliding with the ground on his feet first, followed by his hands. A frame by frame of Donkey Kong’s jumping sprite animation can be seen below:
 <br>
-<img src="./donkeyKongSprite.png" align="left" width="350">
+<img src="./donkeyKongSprite.png" align="lesft" width="350">
  
 This jump animation not only is very polished in detail but also appears to mimic the same animation as a Gorilla in real life does. For example, in the first few seconds in this video clip of a Gorilla jumping at Twycross Zoo, we can observe that the Gorilla exhibits the same jump motion:
 https://youtu.be/QPGbzML3_8s?t=149
@@ -67,7 +67,7 @@ The game’s level design has been influenced by these movement and jump mechani
 
 ## Include a screenshot of the game
 <br>
-<img src="./donkeyKong.png" align="left" width="350">
+<img src="./donkeyKong.png" align="lesft" width="350">
  
 
 # Platformer 3 – The Legend of Kage – NES – 1986 (American Version)
@@ -81,7 +81,7 @@ Frame 2 - The player’s character has their right arm now at the character’s 
 The player’s character jump in The Legend of Kage, is very unique compared to other platformer games I have personally played. In The Legend of Kage, the player’s character has the ability to jump in the game, from one side to another, at great heights and lengths as can be seen below:
 
 <br>
-<img src="./tenor.gif" align="left" width="300">
+<img src="./tenor.gif" align="lesft" width="300">
 
 
 , approximately up to 13x the player’s character’s height. This allows the player’s character to jump over trees and onto tree branches to attack enemies. 
