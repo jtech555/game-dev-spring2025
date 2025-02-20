@@ -1,16 +1,18 @@
 # Platformer 1 – Contra – SNES – 1987
 
 ## Describe the movement on the ground (pay attention to the details)
--The player’s character Lance, the player has 4 different unique sprite actions the player can activate when Lance is on the ground. These sprite actions are: Standing, Laying Down, Walking, and Jumping (Source: Contra - Nintendo NES - Sprites). Breaking down the sprites individually it appears that:
+-The player’s character, Lance, has 4 different unique sprite actions the player can activate when Lance is on the ground. These sprite actions are: Standing, Laying Down, Walking, and Jumping (Source: Contra - Nintendo NES - Sprites). Breaking down the sprites individually it appears that:
 
-Standing Sprite – Is a single frame sprite, showing Lance aiming his rifle at a 90 degree angle, straight towards the enemy that Lance is facing towards. 
+Standing Sprite – Is a single frame sprite, showing Lance aiming his rifle at a 90 degree angle, straight in front of Lance, towards the direction that Lance is facing. 
 
-Laying Down – Is a single frame sprite, allowing for the player to dodge enemy bullets fired at the players torso. In addition allows the plyer to fire a bullet at the enemy’s shins.
+Laying Down – Is a single frame sprite, allowing for the player to dodge enemy bullets fired at the player's torso. In addition allows the plyer to fire a bullets at the enemy’s shins.
 
-Walking – Appears to be a 3 framed sprite, showing the player Lance carrying his rifle at a 45 degree angle into the air, as well as shows Lance’s legs motioning to run.
+Walking – Appears to be a 3 framed sprite, showing the player Lance carrying his rifle at a 45 degree angle into the air, as well as shows Lance’s legs motioning to appear as if Lance is walking.
 
 ## Describe the jump (again, be detail oriented)
--When the player’s character Lance jumps in the game, the Lance curls their body into a small ball up into the air, coming back down (Contra - Nintendo NES - Sprites).
+- When the player’s character Lance jumps in the game, Lance performs a verticle jump - curling his body into a small ball up into the air, coming back down. This can be best exhibited via Lance's Jumping Sprite taken from https://nesmaps.com/maps/Contra/sprites/ContraSprites.html, seen below:
+  
+
 This action is a great form of Polish in the game because it creates for the player a fun detailed physical simulation of movement, as well as sells the player a sense of realism to the game. 
 The jump also gives a cue that the player – the Hero- in the game, Lance, is agile and quick, for being a ~250lb muscular man. This could symbolize that “Heros” are light and fast, allowing children to adapt to a sense of a shared positive reinforcing identity, increasing Game Feel - “I’m quick and fast, the player is quick and fast, and is a Hero. I feel like a Hero, I can relate” 
 
