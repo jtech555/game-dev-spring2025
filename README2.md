@@ -68,11 +68,13 @@ The game’s level design has been influenced by these movement and jump mechani
 <br>
 <img src="http://beregord.files.wordpress.com/2010/11/windowslivewriterretrogameofthedaydonkeykongcountry-13e13crate-donkey-kong-country321.jpg" align="lesft" width="350">
 
--In addition, since Donkey Kong has been created with a high Polish to emote and have reactions to events - dying, winning, etc. - the game's level design has been influenced to create oinstances that bring out emoting reactions. For example, as seen below, when Donkey Kong finds that his 
+-In addition, since Donkey Kong has been created with a high Polish to emote and have reactions to events - dying, winning, etc. - the game's level design has been influenced to create instances that bring out emoting reactions. For example, as seen below, when Donkey Kong finds that his Banana Hoard has no Banana's, Donkey Kong emotes in a sad manner; creating an extension of identity in which the player should feel sad, because Donkey Kong is sad, that he has no Bananas, encouraging the player to develop their skill in the game to collect more.
 
 <br>
 <img src="https://64.media.tumblr.com/0bc63dd69bd634ef4fdf7aafc6c70d9e/4feba373c1ceed3d-ba/s500x750/f6b1d9791e36f6996c1a8dd9ce8a5313bbc3a090.gif" align="lesft" width="350">
 
+<br>
+<img src="https://64.media.tumblr.com/2ae7a2fe2ac3e49dddf3a502091395e0/tumblr_nvgv3h1pMm1r9mds2o1_500.gif" align="lesft" width="350">
 
 
 ## Include a screenshot of the game
