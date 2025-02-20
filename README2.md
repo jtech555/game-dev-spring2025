@@ -60,6 +60,9 @@ When the player’s character (Donkey Kong) jumps, Donkey Kong can be seen leapi
 This jump animation not only is very polished in detail but also appears to mimic the same animation as a Gorilla in real life does. For example, in the first few seconds in this video clip of a Gorilla jumping at Twycross Zoo, we can observe that the Gorilla exhibits the same jump motion:
 https://youtu.be/QPGbzML3_8s?t=149
 
+<br>
+<img src="https://i.makeagif.com/media/7-29-2015/A3lTGL.gif" align="lesft" width="350">
+
 ## How has the game’s level design been influenced by these movement and jump mechanics?
 
 The game’s level design has been influenced by these movement and jump mechanics, ina variety of different ways.
@@ -73,22 +76,21 @@ The game’s level design has been influenced by these movement and jump mechani
 # Platformer 3 – The Legend of Kage – NES – 1986 (American Version)
 ## Describe the movement on the ground (pay attention to the details)
 
--On the ground, the player’s movement in The Legend of Kage appears to be mechanical – that is a cycle between 2 frames where: 
-Frame 1 - The player’s character has a right arm extended outward, and both legs straight when running
-Frame 2 - The player’s character has their right arm now at the character’s side, and leg is now shown to be bent forward. Both frames cycling one after another to make the character appear as if they are running (https://youtu.be/n6c_AX5kAfY). 
+-On the ground, the player’s (Kage's) movement in The Legend of Kage appears to be mechanical – that is a cycle between 2 frames where: 
+Frame 1 - Kage has a right arm extended outward, and both legs straight when running
+Frame 2 - Kage has their right arm now at the character’s side, and leg is now shown to be bent forward. Both frames cycling one after another to make Kage appear as if running (https://youtu.be/n6c_AX5kAfY). 
 
 ## Describe the jump (again, be detail oriented)
-The player’s character jump in The Legend of Kage, is very unique compared to other platformer games I have personally played. In The Legend of Kage, the player’s character has the ability to jump in the game, from one side to another, at great heights and lengths as can be seen below:
+Kage's jump in The Legend of Kage, is very unique compared to other platformer games I have personally played. In The Legend of Kage, Kage has the ability to jump in the game, from one side to another, at great heights and lengths as can be seen below:
 
 <br>
 <img src="./tenor.gif" align="lesft" width="300">
 
-
-, approximately up to 13x the player’s character’s height. This allows the player’s character to jump over trees and onto tree branches to attack enemies. 
-In addition to the player’s character’s jump, the player’s character can also jump vertically (https://youtu.be/n6c_AX5kAfY?t=263). When this jump is performed, the player’s character also swings their weapon – a blade - in their hand. 
+This jump ability allows Kage to jump over trees and onto tree branches to attack enemies, at a maximum height of about 13x Kage's height, and a maximum length about 50x the width of Kage. 
+In addition to Kage’s jump, the player can also control Kage to jump vertically (https://youtu.be/n6c_AX5kAfY?t=263). When this jump is performed, the player’s character also swings their weapon – a blade - in their hand. 
 
 ## How has the game’s level design been influenced by these movement and jump mechanics?
-The game’s level design has been influenced by these movement and jump mechanics by requiring the levels to be large in size. Since the player’s character has the ability to jump at large heights and distances, a small, confined level would not be ideal for the player’s character, because that would decrease the Game Feel, not allowing the player to utilize a character’s ability fully.
+The game’s level design has been influenced by Kage's movement and jump mechanics by requiring the levels to be large in size. Since Kage has the ability to jump at large heights and distances, a small, confined level would not be ideal for the player’s character, because that would decrease the Game Feel, not allowing the player to utilize Kage’s ability fully. In addition, the level design has also been influenced by Kage's movement and jump mechanics by requiring for the levels to have enemies in positions at high altitiudes - on tree branches -, to attack the player when Kage leaps long distances. 
 
 ## Include a screenshot of the game
  <br>
