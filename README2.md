@@ -42,12 +42,13 @@ The character Donkey Kong emotes when Donkey Kong is stationary or has stopped m
 <br>
 <img src="./donkeyKongEmote.gif" align="lesft" width="200">
 
-
-
-
-
 This allows the player to relate more to the character, creating a stronger sense of realism.
-Additionally there are many frames used for the sprites of the main character (The Spriters Resource - Full Sheet View - Donkey Kong Country - Donkey Kong). This not only exhibits a great amount of polish to making Donkey Kong appear to be more “real”, but once again shows that the character designers were 
+Additionally there are many frames used for the sprites of Donkey Kong, that can be seen below, taken from https://www.spriters-resource.com/fullview/45659/.
+
+<br>
+<img src="https://www.spriters-resource.com/resources/sheets/43/45659.png" align="lesft" width="300">
+
+This not only exhibits a great amount of polish to making Donkey Kong appear to be more “real”, but once again shows that the character designers were 
 
 
 
