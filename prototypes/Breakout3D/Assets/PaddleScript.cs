@@ -18,17 +18,6 @@ public class PaddleScript : MonoBehaviour
     // The scale increase factors
     public Vector3 scaleIncrease = new Vector3(2f, 2f, 1f); // Example: Double the X and Y scale
     private Vector3 originalScale;
-
-
-    // Create wireframe
-    
-    private void OnRenderObject()
-    {
-        GL.wireframe = true; // Enable wireframe mode
-        GetComponent<MeshRenderer>().material.SetPass(0); // Use the material of the object
-        Graphics.DrawMeshNow(GetComponent<MeshFilter>().mesh, transform.localToWorldMatrix);
-        GL.wireframe = false; // Disable wireframe mode to avoid affecting other objects
-    }
     
 
     private void Start()
