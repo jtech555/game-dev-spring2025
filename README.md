@@ -130,10 +130,8 @@ Unfortunatly, our group did not have a working model for our playtesters with th
 <img src="./4.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
-Note: Click on Prototypes, then Anti-Breakout: The Swarm 
+Note: Click on Prototypes, then Anti-Breakout: The Caged 
 [Breakout 4](http://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2b)
-
-
 
 
 
@@ -160,7 +158,7 @@ Note: Click on Prototypes, then Anti-Breakout: The Swarm
 <img src="./3.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
-Note: Click on Prototypes, then Anti-Breakout: The Caged 
+Note: Click on Prototypes, then Anti-Breakout: The Swarm 
 [Breakout 4](http://arnoldtran.github.io/game-dev-spring2025/builds/breakout-2b)
 
 
