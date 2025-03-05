@@ -127,7 +127,7 @@ Unfortunatly, our group did not have a working model for our playtesters with th
 
 ## Include an image of the game (example below)
 <br>
-<img src="./4.png" alt="Breakout gameplay" align="lesft" width="350">
+<img src="./3.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
 Note: Click on Prototypes, then Anti-Breakout: The Swarm 
@@ -156,7 +156,7 @@ Note: Click on Prototypes, then Anti-Breakout: The Swarm
 
 ## Include an image of the game (example below)
 <br>
-<img src="./3.png" alt="Breakout gameplay" align="lesft" width="350">
+<img src="./4.png" alt="Breakout gameplay" align="lesft" width="350">
 
 ## Include a link to your game
 Note: Click on Prototypes, then Anti-Breakout: The Caged 
