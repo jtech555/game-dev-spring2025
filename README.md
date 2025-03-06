@@ -66,7 +66,7 @@ In class I learned from my playtesters that this prototype:
 
 With this prototype I was experimenting with removing Tank Controlls, condencing Player Controls into fewer buttons, as well as adding an additional Polish of "Wind" to the prototype. 
 
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fgo8h3ltr9ei61.png" align="lesft" width="350">
+<img src="[https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fgo8h3ltr9ei61.png](https://i.redd.it/go8h3ltr9ei61.png)" align="lesft" width="350">
 
 
 
