@@ -72,6 +72,14 @@ While observing my friends play Valheim I observed two Game Features that immedi
 I knew that both of these Game Features would not only increase Game Feel, but more importantly increase the perception of Simulated Space by being a form of Enviromental Polish.
 
 
+
+
+<br>
+<br>
+<br>
+<br>
+
+
 ## What did you learn from your prototype?
 
 From my prototype I learned that creating "Fog" in Unity, is not very difficult at all to implement in a Game, and in fact can be done under a Minute by:
