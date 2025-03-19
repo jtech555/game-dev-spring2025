@@ -51,7 +51,7 @@ In class I learned from my playtesters that this prototype:
 
 ## 6. Include a link to your game
 
-[Breakout 2a](https://jtech555.github.io/game-dev-spring2025/builds/platformer-1/)
+
 
 
 
@@ -82,19 +82,14 @@ From my prototype I learned that creating "Fog" in Unity, is not very difficult 
 - Scroll to where it says "Other Settings"
 - Check the "Fog" Box
 
-I also learend from my prototype that .....
-
-
 ## Did you learn anything from your playtesters in class? What?
 
 I was unfortunatly not present in class to have my game be playtested. 
-
-
 
 ## 5. Include an image of the game (example below)
 <img src="./frog2.png" align="lesft" width="350">
 
 ## 6. Include a link to your game
 
-[Breakout 2a](https://jtech555.github.io/game-dev-spring2025/builds/platformer-1/)
+
 
