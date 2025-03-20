@@ -95,7 +95,8 @@ From my prototype I learned that creating "Fog" in Unity, is not very difficult 
 I was unfortunatly not present in class to have my game be playtested. 
 
 ## 5. Include an image of the game (example below)
-<img src="./frog2.png" align="lesft" width="350">
+<img src="./final1.png" align="lesft" width="350">
+<img src="./final2.png" align="lesft" width="350">
 
 ## 6. Include a link to your game
 
