@@ -51,7 +51,7 @@ In class I learned from my playtesters that this prototype:
 
 ## 6. Include a link to your game
 
-[Breakout 2a](https://jtech555.github.io/game-dev-spring2025/builds/platformer-1/)
+
 
 
 
@@ -72,6 +72,14 @@ While observing my friends play Valheim I observed two Game Features that immedi
 I knew that both of these Game Features would not only increase Game Feel, but more importantly increase the perception of Simulated Space by being a form of Enviromental Polish.
 
 
+
+
+<br>
+<br>
+<br>
+<br>
+
+
 ## What did you learn from your prototype?
 
 From my prototype I learned that creating "Fog" in Unity, is not very difficult at all to implement in a Game, and in fact can be done under a Minute by:
@@ -82,19 +90,15 @@ From my prototype I learned that creating "Fog" in Unity, is not very difficult 
 - Scroll to where it says "Other Settings"
 - Check the "Fog" Box
 
-I also learend from my prototype that .....
-
-
 ## Did you learn anything from your playtesters in class? What?
 
 I was unfortunatly not present in class to have my game be playtested. 
 
-
-
 ## 5. Include an image of the game (example below)
-<img src="./frog2.png" align="lesft" width="350">
+<img src="./final1.png" align="lesft" width="350">
+<img src="./final2.png" align="lesft" width="350">
 
 ## 6. Include a link to your game
 
-[Breakout 2a](https://jtech555.github.io/game-dev-spring2025/builds/platformer-1/)
+
 
