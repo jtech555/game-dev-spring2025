@@ -5,7 +5,7 @@ public class Timer : MonoBehaviour
 
     [SerializeField] TextMeshPro timerText;
     [SerializeField] float remainingTime;
-
+    [SerializeField] GameObject GameOverImage;
     // Update is called once per frame
     void Update()
     {
@@ -13,10 +13,10 @@ public class Timer : MonoBehaviour
         {
             remainingTime -= Time.deltaTime;
         }
-        else if (remainingTime < 0)
+        else if (remainingTime <= 0)
         {
             remainingTime = 0;
-            //GameOver()
+            GameOverImage.SetActive(true);
             timerText.color = Color.red;
         }
         int minutes = Mathf.FloorToInt(remainingTime / 60);
