@@ -69,6 +69,10 @@ With this prototype I was experimenting with removing Tank Controlls, condencing
 <img src="https://i.redd.it/go8h3ltr9ei61.png" align="left" width="350">
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 I knew that both of these Game Features would not only increase the perception of Simulated Space by being a form of Enviromental Polish, but also increase Game Feel.
 
 <br>
