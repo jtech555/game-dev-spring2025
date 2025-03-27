@@ -49,7 +49,7 @@ In class I learned from my playtesters that:
 - How to "Scale with Screen Size" the Intro Scene Images I had in this prototype
 
 ## 5. Include an image of the game (example below)
-<img src="./frog1.png" align="lesft" width="350">
+<img src="https://github.com/jtech555/game-dev-spring2025/edit/main/frog1.png" align="lesft" width="350">
 
 ## 6. Include a link to your game
 
