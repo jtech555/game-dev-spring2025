@@ -93,7 +93,8 @@ From this prototype I also learned that by creating "Fog" in Unity, is not very 
 However, upon adding Fog to my prototype, I realised that this posed an additional problem as well - I could not clearly see game objects that were in the distance that I added - other islands added, as well as a moon etc. Since I could not find out a way to make the additional game objects to not be affected by fog, I made the choice to remove fog implementation from my prototype.
 
 From this prototype I also learned how to add a "Particle System" effect - creating a visual represention of a volcano errupting with 2 sepreate "Particle System" Game Objects using the colors red and yellow, as can be seen in top right hand corner below:
-<img src="./final1.png" align="lesft" width="350">
+<img src="https://github.com/jtech555/game-dev-spring2025/raw/main/final1.png" align="lesft" width="350">
+
 
 
 ## Did you learn anything from your playtesters in class? What?
@@ -101,8 +102,9 @@ From this prototype I also learned how to add a "Particle System" effect - creat
 I was unfortunatly not present in class to have my game be playtested. However the following class presenting my game, viewers appeared to be happy with the end result. 
 
 ## 5. Include an image of the game (example below)
-<img src="./final1.png" align="lesft" width="350">
-<img src="./final2.png" align="lesft" width="350">
+<img src="https://github.com/jtech555/game-dev-spring2025/raw/main/final1.png" align="lesft" width="350">
+<img src="https://github.com/jtech555/game-dev-spring2025/raw/main/final2.png" align="lesft" width="350">
+
 
 ## 6. Include a link to your game
 ["Platformer 1"](https://jtech555.github.io/game-dev-spring2025/builds/platformer-final)
