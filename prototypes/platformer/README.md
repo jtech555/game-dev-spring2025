@@ -90,7 +90,8 @@ I knew that both of these Game Features would not only increase the perception o
 From this prototype, I learned that by removing "Tank Controls" and having the camera now follow the player from behind, posed new problems:
 
 -The numpad keys that moved the camera in my first prototype had to be deactivated, as the camera was now following the player
--The player now could observe additional space in the Game Enviroment, instead of one Z axis position - the player could observer the entire 3D enviroment, causing me to have to build upon the Game Enviroment adding additional 3D objects. 
+<br>
+-The player now could observe additional space in the Game Enviroment, instead of one Z axis position - the player could observer the entire 3D enviroment, in creasing the player's field of view, causing me to have to build upon the Game Enviroment adding additional 3D objects. 
 
 From this prototype I also learned that by creating "Fog" in Unity, is not very difficult at all to implement in a Game, and in fact can be done under a Minute by:
 - Clicking on the "Window" Toolbar Option in Unity
@@ -99,7 +100,7 @@ From this prototype I also learned that by creating "Fog" in Unity, is not very 
 - Then you will be prompted with a New "Lighting" Window. You will then have to click the "Enviroment" Button.
 - Scroll to where it says "Other Settings"
 - Check the "Fog" Box
-However, upon adding Fog to my prototype, I realised that this posed an additional problem as well - I could not clearly see game objects that were in the distance that I added - other islands added, as well as a moon etc. Since I could not find out a way to make the additional game objects to not be affected by fog, I made the choice to remove fog implementation from my prototype.
+However, upon adding Fog to my prototype, I realised that this posed an additional problem as well - I could not clearly see game objects that were in the distance that I added to make up for the additional field of view from removing Tank Controls - other islands added, as well as a moon etc. Since I could not find out a way to make the additional game objects to not be affected by fog, I made the choice to remove fog implementation from my prototype.
 
 From this prototype I also learned how to add a "Particle System" effect - creating a visual represention of a volcano errupting with 2 sepreate "Particle System" Game Objects using the colors red and yellow, as can be seen in top right hand corner below:
 <img src="https://github.com/jtech555/game-dev-spring2025/raw/main/final1.png" align="lesft" width="350">
