@@ -6,7 +6,7 @@ public class HeathManager : MonoBehaviour
     public GameObject Heath1;
     public GameObject Heath2;
     public GameObject Heath3;
-    public GameObject GameOver;
+   // public GameObject GameOver;
 
     public int health=3;
 
@@ -27,7 +27,7 @@ public class HeathManager : MonoBehaviour
                 Heath1.gameObject.SetActive(false);
                 Heath2.gameObject.SetActive(false);
                 Heath3.gameObject.SetActive(false);
-                GameOver.gameObject.SetActive(true);
+             //   GameOver.gameObject.SetActive(true);
                     break;
             }
             case 1:
@@ -35,7 +35,7 @@ public class HeathManager : MonoBehaviour
                 Heath1.gameObject.SetActive(true);
                 Heath2.gameObject.SetActive(false);
                 Heath3.gameObject.SetActive(false);
-                GameOver.gameObject.SetActive(false);
+             //   GameOver.gameObject.SetActive(false);
                     break;
             }
             case 2:
@@ -43,7 +43,7 @@ public class HeathManager : MonoBehaviour
                 Heath1.gameObject.SetActive(true);
                 Heath2.gameObject.SetActive(true);
                 Heath3.gameObject.SetActive(false);
-                GameOver.gameObject.SetActive(false);
+               // GameOver.gameObject.SetActive(false);
                     break;
             }
             case 3:
@@ -51,7 +51,7 @@ public class HeathManager : MonoBehaviour
                 Heath1.gameObject.SetActive(true);
                 Heath2.gameObject.SetActive(true);
                 Heath3.gameObject.SetActive(true);
-                GameOver.gameObject.SetActive(false);
+               // GameOver.gameObject.SetActive(false);
                     break;
             }
         }
