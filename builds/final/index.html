@@ -26,6 +26,7 @@
     <script>
       var canvas = document.querySelector("#unity-canvas");
 
+      // This function displays a banner message (warning or error)
       function unityShowBanner(msg, type) {
         var warningBanner = document.querySelector("#unity-warning");
         function updateBannerVisibility() {
@@ -45,23 +46,25 @@
         updateBannerVisibility();
       }
 
-      var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/final.loader.js";
+      // Directory where Unity build files are located
+      var buildUrl = "Build"; // Ensure this is the correct directory path
+      var loaderUrl = buildUrl + "/final.loader.js"; // Path to loader.js file
 
+      // Configurations for the Unity WebGL instance
       var config = {
         arguments: [],
-        dataUrl: buildUrl + "/final.data",
-        frameworkUrl: buildUrl + "/final.framework.js",
-        codeUrl: buildUrl + "/final.wasm",
+        dataUrl: buildUrl + "/final.data",  // Path to final.data (uncompressed)
+        frameworkUrl: buildUrl + "/final.framework.js", // Path to final.framework.js (uncompressed)
+        codeUrl: buildUrl + "/final.wasm",  // Path to final.wasm (uncompressed)
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "platformer",
         productVersion: "0.1",
         showBanner: unityShowBanner,
-        // 💥 Critical addition: enables Unity to decompress gzip files even without .gz extension
-        decompressionFallback: true
+        decompressionFallback: true  // Ensures decompression fallback if needed
       };
 
+      // Handle mobile devices (iPhone, iPad, Android)
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         var meta = document.createElement('meta');
         meta.name = 'viewport';
@@ -69,17 +72,18 @@
         document.getElementsByTagName('head')[0].appendChild(meta);
         document.querySelector("#unity-container").className = "unity-mobile";
         canvas.className = "unity-mobile";
-        // Optionally reduce resolution for performance:
-        // config.devicePixelRatio = 1;
       } else {
+        // For desktop style (render in a fixed size canvas)
         canvas.style.width = "960px";
         canvas.style.height = "600px";
       }
 
+      // Show loading bar while Unity WebGL is loading
       document.querySelector("#unity-loading-bar").style.display = "block";
 
+      // Dynamically load the Unity WebGL loader script
       var script = document.createElement("script");
-      script.src = loaderUrl;
+      script.src = loaderUrl;  // This will load the final.loader.js file
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
           document.querySelector("#unity-progress-bar-full").style.width = 100 * progress + "%";
@@ -93,6 +97,7 @@
         });
       };
 
+      // Add the script to the page so it can start loading
       document.body.appendChild(script);
     </script>
   </body>
